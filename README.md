@@ -1,7 +1,7 @@
 # Beginning C++ Programming - From Beginner to Beyond
 
-This repository contains an introduction to the Beginning C++ Programming
-- From Beginner to Beyond by Frank J. Mitropoulos, Ph.D, which covers
+This repository contains an introduction to the Beginning C++ Programming: 
+From Beginner to Beyond by Frank J. Mitropoulos, Ph.D, which covers
 reasons to learn C++, modern C++ and the C++ standard, and how the course
 works.
 
