@@ -1,0 +1,20 @@
+
+Section 01: About the Course
+-----------------------------------------------------------------------
+
+Welcome and Introduction to Course
+
+	- About me
+
+	- My assumptions
+
+	- Your background
+
+	- The curriculum and Modern C++
+
+	- Practice!
+
+	- Please ask questions
+
+
+
