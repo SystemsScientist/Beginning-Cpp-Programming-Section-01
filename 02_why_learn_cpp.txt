@@ -1,0 +1,39 @@
+
+Section 02: Why Learn C++?
+--------------------------------------------------------------------------
+
+Why Learn C++
+
+	- Popular
+
+		+ Lots of code is still written in C++
+
+		+ Programming language popularity indexes
+
+		+ Active community, GitHub, Stack Overflow
+
+	- Relevant
+
+		+ Windows, Linux, Mac OS, Photoshop, Illustrator,
+		  MySQL, MongoDB, Game Engines, more...
+
+		+ Amazon, Apple, Microsoft, PayPal, Google, Facebook,
+		  MySQL, Oracle, HP, IBM, more...
+	
+		+ VR, Unreal Engine, Machine Learning, Networking &
+		  Telecommunications, more...
+
+	- Powerful
+
+		+ Fast, flexible, scalable, portable
+
+		+ Procedural and Object-Oriented
+
+	- Good career opportunities
+
+		+ C++ skills always in demand
+
+		+ C++ = Salary++
+
+
+
