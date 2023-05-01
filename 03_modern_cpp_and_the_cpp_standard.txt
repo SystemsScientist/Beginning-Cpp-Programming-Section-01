@@ -1,0 +1,71 @@
+
+Section 01: Modern C++ and the C++ Standard
+---------------------------------------------------------------------------------------
+
+Modern C++ and the C++ Standard I
+
+	- Early 1970s
+
+		+ C Programming Language
+		+ Dennis Ritchie
+
+	- 1979
+
+		+ Bjarne Stroustrup
+		+ C with Classes
+
+	- 1983
+
+		+ Name changed to C++
+	
+	- 1989
+
+		+ First commercial release
+
+	- 1998
+
+		+ C++98 Standard
+
+	- 2003
+
+		+ C++03 Standard
+
+	- 2011
+
+		+ C++11 Standard
+
+	- 2014 
+
+		+ C++14 Standard
+
+	- 2017
+
+		+ C++17 Standard
+
+
+Modern C++ and the C++ Standard II
+
+	- Classical C++
+
+		+ Pre C++11 Standard
+
+	- Modern C++
+
+		+ C++11
+
+			- Lots of new features
+
+		+ C++14
+
+			- Smaller Changes
+
+		+ C++17
+			
+			- Simplification
+
+		+ Best practices
+		
+		+ Core guidelines
+
+
+
