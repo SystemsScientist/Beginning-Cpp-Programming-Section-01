@@ -1,0 +1,85 @@
+
+Section 01: How Does This Work
+--------------------------------------------------------------------------------------------------------
+
+How Does All This Work?
+
+	- You must tell the computer EXACTLY what to do
+
+		+ Program - like a recipe
+
+	- Programming language
+
+		+ source code
+		+ high-level
+		+ for humans
+
+	- Editor - used to enter program text
+
+		+ .cpp and .h files
+
+	- Binary or other low-level representation
+
+		+ object code
+		+ for computers
+
+	- Compiler - translates from high-level to low-level
+
+	- Linker - links together our codde with other libraries
+
+		+ creates executable program
+
+	- Testing and Debugging - finding and fixing program errors
+
+
+The C++ Build Process
+
+	1. Source code
+
+	2. C++ compiler
+
+	3. Object code
+
+	4. Linker
+	
+		+ produces executable program name_of_file.exe
+	
+			- C++ Standard Library
+			- other libraries
+
+
+Integrated Development Environments (IDEs) I
+
+	- Editor
+	
+	- Compiler
+
+	- Linker
+
+	- Debugger
+
+	- Keep everything in sync
+
+
+Integrated Development Environments (IDEs)
+
+	- CodeLite
+
+	- Code::Blocks
+
+	- NetBeans
+
+	- Eclipse
+
+	- CLion
+
+	- Dev-C++
+
+	- KDevelop
+
+	- Visual Studio
+
+	- Xcode
+
+
+
